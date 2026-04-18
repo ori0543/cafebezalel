@@ -1,0 +1,7 @@
+{
+  "name": "Café Bezalel Jerusalem",
+  "description": "A modern, artistic, and high-converting website for Café Bezalel in Jerusalem. Urban atmosphere, quality coffee, and creative vibes.",
+  "requestFramePermissions": [
+    "geolocation"
+  ]
+}
